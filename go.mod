@@ -1,4 +1,4 @@
-module github.com/aliyun/aliyun-ahas-go-sdk
+github.com/insomniasary/aliyun-ahas
 
 go 1.13
 
