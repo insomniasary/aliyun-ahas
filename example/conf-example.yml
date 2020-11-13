@@ -1,0 +1,10 @@
+# Set the file path via SENTINEL_CONFIG_FILE_PATH system env
+version: "v1"
+sentinel:
+  app:
+    name: sentinel-go-service
+  log:
+    metric:
+      maxFileCount: 14
+ahas:
+  license: "xxx"
